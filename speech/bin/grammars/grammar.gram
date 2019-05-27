@@ -1,0 +1,17 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+public <feelings>  = ( how are you | who the hell are you | say hello | restart computer | who is smart| who loves you | who is ugly | what is time  | hello computer | do you like engineering | shutdown computer | please sleep );
+public <controll> =(volume up | volume down | show desktop  |copy this item | paste here selected item | cut this item | go back | show me my beautiful face ); 
+public <social> = ( open google | open Gmail | open youtube | open facebook | play music );
+public <voices>  = ( change to voice one  | change to voice two | change to voice three );
+public <amazing>  = ( say amazing | what day is today );
+public <nervous>  = (who is your daddy | obey to me beach | hey boss);
+public <mouse>  = (move to left | move to right | move to down | move to up );
+public <select>  = ( select this item | view its property | view item menu | turn on mouse by keyboard |turn on wifi |turn off wifi |ok dude take some rest);
+public <windows> = (close this window tab | switch window tab | turn on bluetooth | open the notepad | close the notepad | open the command | close the command | open the browser | close the browser | open the control panel | close the control panel | open the paint |close the paint |open the task manager | close the task manager | open power option | open windows security center);
